@@ -10,6 +10,8 @@ Luana Duque - 550813
 
 Leonardo Shoiti Araki - 98587
 
+![image](https://github.com/user-attachments/assets/d0fa275b-8624-4112-b81f-84d5a41b0376)
+
 Link do crud 1
 
 http://localhost:8080/agricultores/
